@@ -57,7 +57,7 @@
 
 ## Структура проекта
 ```bash
-java_hse3
+java_hse
 ├── pom.xml                 # Главный POM-файл Maven
 ├── lab1                    # Модуль lab1
 │   ├── pom.xml             # POM-файл модуля lab1
