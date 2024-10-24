@@ -12,7 +12,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>lab1</artifactId>
+    <artifactId>lab2</artifactId>
     <packaging>jar</packaging>
 
     <properties>
@@ -31,7 +31,7 @@
                     <archive>
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-                            <mainClass>lab1.Main</mainClass>
+                            <mainClass>lab2.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
